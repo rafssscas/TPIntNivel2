@@ -1,0 +1,14 @@
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\bin\Debug\TPFinalNivel2.exe.config
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\bin\Debug\TPFinalNivel2.exe
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\bin\Debug\TPFinalNivel2.pdb
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\capaView.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\capaView.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.frmArticulo.resources
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.frmCategoria.resources
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.frmMarca.resources
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.frmPrincipal.resources
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.Properties.Resources.resources
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\capaView.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\capaView.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.exe
+C:\Users\rafae\Desktop\TPIntNivel2\TPIntNivel2\TPFinalNivel2_Castro\TPFinalNivel2\obj\Debug\TPFinalNivel2.pdb
